@@ -24,3 +24,8 @@ $go run consumer-group.go g2
 ```
 $go run producer-group.go <message>
 ```
+
+## Topology
+
+![image](https://github.com/up1/demo-rabbitmq-topic/blob/master/topology.png)
+
